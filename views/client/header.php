@@ -173,7 +173,7 @@
                             <button type="submit" class="btn btn-primary btn-block mb-4">Login</button>
                           </form>
                         </div>
-
+                        </div>
               <a href="#" class="icon icon-sm rounded-circle border">
                 <i class="fa fa-shopping-cart"></i>
 
