@@ -94,7 +94,6 @@ class PaymentController
         $order_id = (new Order)->create($order);
 
         // Xử lý chi tiết đơn hàng
-        dd($carts);
         foreach ($carts as $cart) {
             $order_detail = [
                 'order_id' => $order_id,
