@@ -57,7 +57,7 @@ function sendMail($to, $subject, $content)
         //Recipients
         $mail->setFrom('nemmoda1@gmail.com', 'Nệm Mơ');
         $mail->addAddress($to);     //Add a recipient
-
+ddsdsd
         //Content
         $mail->isHTML(true);
         //Set email format to HTML
